@@ -1,0 +1,3 @@
+/Users/alex/Desktop/daproj/bftdoc/cmake-build-debug/CMakeFiles/bftdoc.dir
+/Users/alex/Desktop/daproj/bftdoc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/Desktop/daproj/bftdoc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
